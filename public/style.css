@@ -1,0 +1,27 @@
+body{
+  background: url("https://www.qualitydevs.com/wp-content/uploads/2020/03/ciberseguridad-empresas-1288x724.jpg");
+  background-size: cover;  
+}
+
+.main-section{
+    margin: 0 auto;
+    margin-top: 130px;
+    border-radius: 5px;
+    padding: 0;
+    background-color:gray;
+
+}
+
+.icono-sesion{
+    margin-top: -50px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+}
+
+.form-group{
+    border-radius: 5px;
+    font-size: 18px
+
+}
